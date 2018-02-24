@@ -4,10 +4,38 @@
   }
 .form-area
 {
-  background-color: #FAFAFA;
+  background-color: whitesmoke;
 padding: 10px 40px 60px;
 margin: 10px 0px 60px;
 border: 1px solid GREY;
+}
+
+body {
+  background-image: url("https://wallpaperbrowse.com/media/images/240_F_85546864_NLt7B65lHpzyAcdxn9ISTl2Or4EEOC8b.jpg");
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.navbar-default .navbar-brand  {
+  color: whitesmoke;
+}
+.navbar-brand {
+  background: #00cccc;
+  font-family: 'Acme', sans-serif;
+  color: whitesmoke;
+  font-size: 27px;
+  right: 4px;
+}
+
+.panel-title  {
+  color: #00cccc;
+  font-family: 'Acme', sans-serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+.pannel-body  {
+  float: right;
 }
 
 .footer {
