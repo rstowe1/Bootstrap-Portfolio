@@ -20,7 +20,7 @@ body {
   color: whitesmoke;
 }
 .navbar-brand {
-  background: #00cccc;
+  background: #5482A1;
   font-family: 'Acme', sans-serif;
   color: whitesmoke;
   font-size: 27px;
@@ -28,7 +28,7 @@ body {
 }
 
 .panel-title  {
-  color: #00cccc;
+  color: #5482A1;
   font-family: 'Acme', sans-serif;
   font-size: 18px;
   text-align: center;
@@ -45,7 +45,7 @@ body {
   background-color: rgb(56, 54, 54);
   color: white;
   border-top-style: solid;
-  border-top-color: turquoise;
+  border-top-color: #5482A1;
   text-align: center;
   box-sizing: border-box;
   width: 100%;
